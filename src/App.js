@@ -1,8 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom/client";
 import MovieSearch from "./movieSearch";
-
-
 
 class App extends React.Component{
     render() {
